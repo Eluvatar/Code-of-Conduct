@@ -1,4 +1,4 @@
 Code-of-Conduct
 ===============
 
-Code of Conduct for Merrymen of the United Defenders League
+Code of Conduct for Merrymen, Militia, and leadership of the United Defenders League
