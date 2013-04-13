@@ -1,7 +1,7 @@
 United Defenders League Uniform Code of Conduct
 ================================
 
-1. [#principles](Principles)
+1. [Principles](#principles)
 
 Principles
 -------------------------
