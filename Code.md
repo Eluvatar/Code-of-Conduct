@@ -31,7 +31,7 @@ This Code of Conduct is a handbook of how to meet the demands of this oath, as w
 
 1. All members of the UDL are expected to refrain from invading, even separately from their participation in the UDL.
 2. The only exception is participation in a war in which both sides are active participants on behalf of your home.
-3. Regions whose theme or membership is egregious are not exempt. [http://s4.zetaboards.com/UDL/topic/9829200/1/](Even Nazi regions.)
+3. Regions whose theme or membership is egregious are not exempt. [Even Nazi regions.](http://s4.zetaboards.com/UDL/topic/9829200/1/)
 
 # Incorruptibility: We in tights do not {word for corrupting regional politics}
 
