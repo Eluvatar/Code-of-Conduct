@@ -77,6 +77,11 @@ Comprehensive Prohibitions
 1. No member of the UDL may invade (except in a mutual war between two regions).
 2. Forum Destruction is prohibited, and unrepentant forum destroyers are unwelcome.
 3. Personal privacy must be respected: the publication of information such as real names, IP addresses, real addresses, email addresses, occupations, obsessions or anything else which could be used to find the actual person, or if is more about them as people then about nationstates, it prohibited.
-4. There is to be no cracking of any 
-5. The release of any confidential UDL information such as operational planning is a betrayal of trust and prohibited.
-6. {TBC}
+4. There is to be no cracking of any passwords or accounts. Period. 
+5. The release of any confidential UDL information such as operational planning or tools is a betrayal of trust and prohibited.
+6. UDL members may not privately lobby their juniors (those who would have to obey them) in UDL for any political purpose related to the UDL or defending.
+7. The willful violation of any regional oath is prohibited.
+8. Abuse or harrassment of any person for any reason is prohibited. 
+9. UDL members should not publicly trash other organizations or regions.
+10. Disrupting discipline during an operation is prohibited.
+11. Concealing a conflict of interest from your UDL commanders is prohibited.
