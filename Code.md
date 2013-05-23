@@ -2,6 +2,7 @@ United Defenders League Uniform Code of Conduct
 ================================
 
 1. [Principles](#principles)
+2. [Prohibitions](#comprehensive-prohibitions)
 
 Principles
 -------------------------
